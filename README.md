@@ -9,7 +9,7 @@ This project aims to develop a Convolutional Neural Network (CNN) to classify im
 - To experiment with different network architectures and hyperparameters to improve classification accuracy.
 - To gain experience with handling image data and preparing it for model training.
 - Use data Augmentation transformations to provide more data to the model without adding external data.
-- 
+  
 ## Tools/Frameworks Used
 - **Programming Language:** Python
 - **Deep Learning Framework:** PyTorch
