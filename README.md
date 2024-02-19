@@ -27,7 +27,7 @@ The CNN model implemented in this project includes the following layers:
 ### Prerequisites
 Ensure you have Python installed on your system. This project uses Python 3.8. Additionally, you'll need PyTorch and other dependencies, which can be installed using the following command:
 ```
-pip install pytorch
+pip install torch
 pip install torchvision
 ```
 
